@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0047FF</color>
+    <color name="active_icon_color">#00A3FF</color>
+    <color name="non_active_icon_color">#00A3FF</color>
+    <color name="dark_grey_color">#5A5959</color>
+    <color name="home_background_color">#E8E8E8</color>
+    <color name="dark_blue">#002C9C</color>
+    <color name="light_grey">#F5F5F5</color>
+    <color name="purple_blue">#92B0FF</color>
+    <color name="text_editor_bg_color">#E8E8E8</color>
+</resources>

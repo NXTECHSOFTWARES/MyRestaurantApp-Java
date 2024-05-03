@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/home"
+        android:icon="@drawable/house_solid"
+        android:title="home" />
+
+    <item android:id="@+id/cart"
+        android:icon="@drawable/cart_shopping_solid"
+        android:title="cart"
+       />
+
+    <item android:id="@+id/notifications"
+        android:icon="@drawable/bell_solid"
+        android:title="notifications"
+       />
+
+</menu>
